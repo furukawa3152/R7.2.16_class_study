@@ -1,0 +1,1 @@
+# Smart_samuraiクラスを継承して、hagakureクラスを定義
