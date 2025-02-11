@@ -76,6 +76,7 @@ class Smart_samurai:
         """
         pass
 
+
     def __eq__(self, other: 'Smart_samurai') -> str:
         """
         2人のPythonレベルを比較する
