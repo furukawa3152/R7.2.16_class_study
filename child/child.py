@@ -38,6 +38,7 @@ class Smart_samurai:
     def fun_of_community_by_classmethod(cls) -> str:
         """
         クラスメソッドでコミュニティを称賛する
+        例：佐賀スマートサムライ最高です！
         """
         pass
 
@@ -45,6 +46,7 @@ class Smart_samurai:
     def fun_of_community_by_staticmethod() -> str:
         """
         スタティックメソッドでコミュニティを称賛する
+        例：佐賀スマートサムライ最高やで！
         """
         pass
 
